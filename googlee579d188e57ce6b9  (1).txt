@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deft-salmiakki-6b6d95.netlify.app/sitemap.xml
